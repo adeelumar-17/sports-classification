@@ -1,6 +1,8 @@
 # Sports Image Classification — Fine-Tuning EfficientNet-B0
 
 A PyTorch project that fine-tunes a pretrained **EfficientNet-B0** model to classify images across **100 sports categories**. The project implements a two-phase transfer learning strategy with systematic hyperparameter ablation to maximise accuracy.
+<img width="1461" height="621" alt="image" src="https://github.com/user-attachments/assets/34997a30-2d0a-417d-9eb9-a539f6643ef8" />
+
 
 | Item | Detail |
 |---|---|
